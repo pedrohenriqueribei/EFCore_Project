@@ -1,0 +1,11 @@
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\bin\Debug\net8.0\eCommerce.Models.deps.json
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\bin\Debug\net8.0\eCommerce.Models.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\bin\Debug\net8.0\eCommerce.Models.pdb
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\refint\eCommerce.Models.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.pdb
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\ref\eCommerce.Models.dll
