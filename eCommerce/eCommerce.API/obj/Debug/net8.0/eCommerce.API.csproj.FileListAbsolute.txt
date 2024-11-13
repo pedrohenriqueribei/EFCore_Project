@@ -143,3 +143,4 @@ C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.API\bin\Debug\net8.0\runtimes\wi
 C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.API\bin\Debug\net8.0\appsettings.Production.json
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.API\obj\Debug\net8.0\eCommerce.API.sourcelink.json

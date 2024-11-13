@@ -17,6 +17,24 @@ namespace eCommerce.API.Database
 
         public DbSet<EnderecoEntrega> EnderecosEntrega { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            //para adicionar dados em uma tabela
+
+            modelBuilder.Entity<Departamento>().HasData(
+                    new Departamento { Id = 1, Nome = "Moda Infantil" },
+                    new Departamento { Id = 2, Nome = "Moda Feminina" },
+                    new Departamento { Id = 3, Nome = "Moda Masculina" },
+                    new Departamento { Id = 4, Nome = "Moda Gestante" },
+                    new Departamento { Id = 5, Nome = "Calçados" },
+                    new Departamento { Id = 6, Nome = "Beleza" },
+                    new Departamento { Id = 7, Nome = "Informática" },
+                    new Departamento { Id = 8, Nome = "Celulares" },
+                    new Departamento { Id = 9, Nome = "Eletrônicos" },
+                    new Departamento { Id = 10, Nome = "Livros" }
+            );
+        }
+
 
         #region
         /*
