@@ -1586,14 +1586,17 @@
           }
         }
       },
-      "eCommerce.Models/1.0.0": {
+      "eCommerce.Models.DataAnnotations/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "8.0.10"
+        },
         "compile": {
-          "bin/placeholder/eCommerce.Models.dll": {}
+          "bin/placeholder/eCommerce.Models.DataAnnotations.dll": {}
         },
         "runtime": {
-          "bin/placeholder/eCommerce.Models.dll": {}
+          "bin/placeholder/eCommerce.Models.DataAnnotations.dll": {}
         }
       }
     }
@@ -4480,10 +4483,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "eCommerce.Models/1.0.0": {
+    "eCommerce.Models.DataAnnotations/1.0.0": {
       "type": "project",
-      "path": "../eCommerce.Models/eCommerce.Models.csproj",
-      "msbuildProject": "../eCommerce.Models/eCommerce.Models.csproj"
+      "path": "../eCommerce.Models.DataAnnotations/eCommerce.Models.DataAnnotations.csproj",
+      "msbuildProject": "../eCommerce.Models.DataAnnotations/eCommerce.Models.DataAnnotations.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4492,7 +4495,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
       "Swashbuckle.AspNetCore >= 6.9.0",
-      "eCommerce.Models >= 1.0.0"
+      "eCommerce.Models.DataAnnotations >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4523,8 +4526,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj": {
-              "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj"
+            "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj": {
+              "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj"
             }
           }
         }

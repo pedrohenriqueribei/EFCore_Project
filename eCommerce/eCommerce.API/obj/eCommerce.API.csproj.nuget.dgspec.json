@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj": {
-                "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj"
+              "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj": {
+                "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj": {
+    "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj",
-        "projectName": "eCommerce.Models",
-        "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\eCommerce.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj",
+        "projectName": "eCommerce.Models.DataAnnotations",
+        "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\obj\\",
+        "outputPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,6 +133,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

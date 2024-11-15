@@ -1,0 +1,13 @@
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\bin\Debug\net8.0\eCommerce.Models.DataAnnotations.deps.json
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\bin\Debug\net8.0\eCommerce.Models.DataAnnotations.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\bin\Debug\net8.0\eCommerce.Models.DataAnnotations.pdb
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.sourcelink.json
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\refint\eCommerce.Models.DataAnnotations.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\eCommerce.Models.DataAnnotations.pdb
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models.DataAnnotations\obj\Debug\net8.0\ref\eCommerce.Models.DataAnnotations.dll
