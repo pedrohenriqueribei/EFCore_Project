@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("eCommerce.Models.DataAnnotations")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("eCommerce.Models.FluentAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bb96bd7c0c9779eed8334b761de4df82ee345de")]
-[assembly: System.Reflection.AssemblyProductAttribute("eCommerce.Models.DataAnnotations")]
-[assembly: System.Reflection.AssemblyTitleAttribute("eCommerce.Models.DataAnnotations")]
+[assembly: System.Reflection.AssemblyProductAttribute("eCommerce.Models.FluentAPI")]
+[assembly: System.Reflection.AssemblyTitleAttribute("eCommerce.Models.FluentAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\migrations\\20241115212344_mudanca05-dataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\migrations\\20241115212344_mudanca05-dataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.fluentapi\\ecommercefluentapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|solutionrelative:ecommerce.models.fluentapi\\ecommercefluentapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5546C65D-263E-4355-98FF-4CE9A3497DEC}|eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.dataannotations\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5546C65D-263E-4355-98FF-4CE9A3497DEC}|eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj|solutionrelative:ecommerce.models.dataannotations\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\migrations\\20241111235732_bancoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\migrations\\20241111235732_bancoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5546C65D-263E-4355-98FF-4CE9A3497DEC}|eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.dataannotations\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5546C65D-263E-4355-98FF-4CE9A3497DEC}|eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj|solutionrelative:ecommerce.models.dataannotations\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5546C65D-263E-4355-98FF-4CE9A3497DEC}|eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.dataannotations\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5546C65D-263E-4355-98FF-4CE9A3497DEC}|eCommerce.Models.DataAnnotations\\eCommerce.Models.DataAnnotations.csproj|solutionrelative:ecommerce.models.dataannotations\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.fluentapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|solutionrelative:ecommerce.models.fluentapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241115212344_Mudanca05-DataAnnotations.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Migrations\\20241115212344_Mudanca05-DataAnnotations.cs",
-              "RelativeDocumentMoniker": "eCommerce.API\\Migrations\\20241115212344_Mudanca05-DataAnnotations.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Migrations\\20241115212344_Mudanca05-DataAnnotations.cs",
-              "RelativeToolTip": "eCommerce.API\\Migrations\\20241115212344_Mudanca05-DataAnnotations.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T21:23:54.322Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241111235732_BancoInicial.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Migrations\\20241111235732_BancoInicial.cs",
-              "RelativeDocumentMoniker": "eCommerce.API\\Migrations\\20241111235732_BancoInicial.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Migrations\\20241111235732_BancoInicial.cs",
-              "RelativeToolTip": "eCommerce.API\\Migrations\\20241111235732_BancoInicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T21:18:49.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\Pedido.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models.DataAnnotations\\Pedido.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\Pedido.cs",
-              "RelativeToolTip": "eCommerce.Models.DataAnnotations\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T20:53:57.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\Contato.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models.DataAnnotations\\Contato.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\Contato.cs",
-              "RelativeToolTip": "eCommerce.Models.DataAnnotations\\Contato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T20:49:52.466Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\Usuario.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models.DataAnnotations\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.DataAnnotations\\Usuario.cs",
-              "RelativeToolTip": "eCommerce.Models.DataAnnotations\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
+              "RelativeToolTip": "eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA0wBUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T20:41:40.821Z"
+              "WhenOpened": "2024-11-16T01:30:46.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eCommerceFluentAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
+              "RelativeToolTip": "eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEsAAACyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T21:45:50.476Z",
+              "EditorCaption": ""
             }
           ]
         }
