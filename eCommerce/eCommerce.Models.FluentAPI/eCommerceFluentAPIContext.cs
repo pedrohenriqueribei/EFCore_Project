@@ -29,6 +29,7 @@ namespace eCommerce.Models.FluentAPI
          */
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            #region Usuario
             //definir nome da tabela
             modelBuilder.Entity<Usuario>().ToTable("TB_USUARIOS");
 
@@ -77,7 +78,9 @@ namespace eCommerce.Models.FluentAPI
 
             modelBuilder.Entity<Usuario>().HasMany(user => user.Departamentos).WithMany(dept => dept.Usuarios);
 
-
+            //campo obrigatório
+            modelBuilder.Entity<Usuario>().Property(a => a.RG).IsRequired().HasMaxLength(12);
+            #endregion
         }
 
 

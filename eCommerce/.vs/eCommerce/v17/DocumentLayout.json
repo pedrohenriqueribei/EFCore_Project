@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\ecommercefluentapiexerciciocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\ecommercefluentapiexerciciocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\contatoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\contatoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.fluentapi\\ecommercefluentapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|solutionrelative:ecommerce.models.fluentapi\\ecommercefluentapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.fluentapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|solutionrelative:ecommerce.models.fluentapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +46,121 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
-              "RelativeToolTip": "eCommerce.Models.FluentAPI\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA0wBUAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "EnderecoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T01:30:46.1Z",
+              "WhenOpened": "2024-11-17T16:59:45.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "DepartamentoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:59:01.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContatoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:56:55.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:52:46.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "eCommerceFluentAPIContext.cs",
               "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
               "RelativeDocumentMoniker": "eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
               "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
               "RelativeToolTip": "eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwEsAAACyAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwFIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T21:45:50.476Z",
+              "WhenOpened": "2024-11-17T16:41:57.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:38:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Departamento.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:33:27.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eCommerceFluentApiExercicioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAmwEMAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:59:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Usuario.cs",
+              "RelativeToolTip": "eCommercer.Models.Exercicio\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T16:09:04.349Z",
               "EditorCaption": ""
             }
           ]
