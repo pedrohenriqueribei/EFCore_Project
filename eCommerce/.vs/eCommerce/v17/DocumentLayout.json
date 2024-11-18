@@ -3,40 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\ecommercefluentapiexerciciocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\ecommercefluentapiexerciciocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\ecommerceofficecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\ecommerceofficecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\departamentoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\enderecoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\contatoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\contatoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradoresSetores.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\configurations\\usuarioconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models.fluentapi\\ecommercefluentapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA7E7916-CA1D-47E0-97FB-DCFD2A907E75}|eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj|solutionrelative:ecommerce.models.fluentapi\\ecommercefluentapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommercer.models.exercicio\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70752216-1A64-424F-B84F-CCBD3BF60F66}|eCommercer.Models.Exercicio\\eCommercer.Models.Exercicio.csproj|solutionrelative:ecommercer.models.exercicio\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +31,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EnderecoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\EnderecoConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:59:45.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartamentoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\DepartamentoConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:59:01.11Z",
+              "Title": "dbo.ColaboradorTurma [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql",
+              "ToolTip": "dbo.ColaboradorTurma [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T02:06:48.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ContatoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\ContatoConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:56:55.576Z",
+              "Title": "dbo.ColaboradoresSetores [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradoresSetores.sql",
+              "ToolTip": "dbo.ColaboradoresSetores [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T02:03:46.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UsuarioConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Configurations\\UsuarioConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAUwAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:52:46.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "eCommerceFluentAPIContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
-              "RelativeToolTip": "eCommerce.Models.FluentAPI\\eCommerceFluentAPIContext.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAmwFIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:41:57.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EnderecoEntrega.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Models\\EnderecoEntrega.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:38:13.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Departamento.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Models\\Departamento.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Departamento.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Models\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:33:27.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "eCommerceFluentApiExercicioContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\eCommerceFluentApiExercicioContext.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAmwEMAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T15:59:53.851Z",
+              "Title": "dbo.Turmas [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql",
+              "ToolTip": "dbo.Turmas [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T02:03:03.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "eCommercer.Models.Exercicio\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommercer.Models.Exercicio\\Models\\Usuario.cs",
-              "RelativeToolTip": "eCommercer.Models.Exercicio\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBMAAAAWAAAAAAAAAA==",
+              "Title": "20241118015836_Carga01-Turma.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T16:09:04.349Z",
+              "WhenOpened": "2024-11-18T01:58:36.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "eCommerceOfficeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwHUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:43:25.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Program.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Program.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Program.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T17:07:07.536Z",
               "EditorCaption": ""
             }
           ]
