@@ -55,3 +55,56 @@ foreach (var colab in colabTurma)
     }
 }
 #endregion
+
+#region MANY-TO-MANY + Payload for EF Core 5+
+Console.WriteLine();
+Console.WriteLine("----------------------------------");
+Console.WriteLine("region MANY-TO-MANY + Payload for EF Core 5+");
+Console.WriteLine();
+
+var colaboradors = db.Colaboradores!.Include(a => a.Veiculos);
+
+foreach (var func in colaboradors)
+{
+    Console.WriteLine($"{func.Nome}");
+
+    foreach (var veiculo in func.Veiculos)
+    {
+        Console.WriteLine(" - " + veiculo.Nome);
+    }
+    Console.WriteLine();
+}
+#endregion
+
+#region MANY-TO-MANY + Payload for EF Core 5+ Com tabela intermediaria
+Console.WriteLine();
+Console.WriteLine("----------------------------------   region MANY-TO-MANY + Payload for EF Core 5+ Com Tabela Intermediária");
+Console.WriteLine("");
+Console.WriteLine();
+
+var colabs = db.Colaboradores!.Include(a => a.ColaboradoresVeiculos)!.ThenInclude(a => a.Veiculo);
+
+foreach (var func in colabs)
+{
+    Console.WriteLine($"{func.Nome}");
+
+    foreach (var vinculo in func.ColaboradoresVeiculos!)
+    {
+        Console.WriteLine($" - ({vinculo.Veiculo.Id}) -> {vinculo.Veiculo.Nome} ({vinculo.Veiculo.Placa}) - Data de: {vinculo.DataInicio}");
+    }
+    Console.WriteLine();
+}
+#endregion
+
+
+#region Criando vinculos novos entre colaborador e carros
+var func07 = db.Colaboradores!.Find(8);
+
+Console.WriteLine($"{func07!.Nome} - {func07.Id}");
+
+var carro06 = db.Veiculos!.Find(7);
+
+Console.WriteLine($"{carro06!.Placa} - {carro06.Nome}");
+func07.Veiculos!.Add(carro06);
+db.SaveChanges();
+#endregion

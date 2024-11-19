@@ -7,21 +7,35 @@
       "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\models\\colaboradorveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\models\\colaboradorveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradoresSetores.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorVeiculo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Colaboradores.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Veiculos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\ecommerceofficecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\ecommerceofficecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,63 +45,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "dbo.ColaboradorTurma [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql",
-              "ToolTip": "dbo.ColaboradorTurma [Dados]",
+              "DocumentIndex": 4,
+              "Title": "dbo.Colaboradores [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Colaboradores.sql",
+              "ToolTip": "dbo.Colaboradores [Dados]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T02:06:48.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.ColaboradoresSetores [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradoresSetores.sql",
-              "ToolTip": "dbo.ColaboradoresSetores [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T02:03:46.739Z",
+              "WhenOpened": "2024-11-18T23:53:28.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "dbo.Turmas [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql",
-              "ToolTip": "dbo.Turmas [Dados]",
+              "Title": "dbo.ColaboradorVeiculo [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorVeiculo.sql",
+              "ToolTip": "dbo.ColaboradorVeiculo [Dados]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T02:03:03.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241118015836_Carga01-Turma.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Migrations\\20241118015836_Carga01-Turma.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T01:58:36.367Z",
+              "WhenOpened": "2024-11-18T23:30:06.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "eCommerceOfficeContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwHUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T01:43:25.093Z",
+              "Title": "dbo.Veiculos [Dados]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Veiculos.sql",
+              "ToolTip": "dbo.Veiculos [Dados]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T23:28:51.632Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:02:58.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:02:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColaboradorVeiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:00:26.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.ColaboradorTurma.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T02:06:48.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Turmas.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-18T02:03:03.004Z"
             },
             {
               "$type": "Document",
@@ -97,9 +142,22 @@
               "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Program.cs",
               "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Program.cs",
               "RelativeToolTip": "eCommerce.Office_ManyToMany\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T17:07:07.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "eCommerceOfficeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "RelativeToolTip": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:43:25.093Z",
               "EditorCaption": ""
             }
           ]

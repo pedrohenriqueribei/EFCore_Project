@@ -15,5 +15,7 @@ namespace eCommerce.Office_ManyToMany.Models
         public string Placa { get; set; } = null!;
 
         public ICollection<Colaborador>? Colaboradores { get; set; }
+
+        public ICollection<ColaboradorVeiculo>? ColaboradoresVeiculos { get; set; }
     }
 }

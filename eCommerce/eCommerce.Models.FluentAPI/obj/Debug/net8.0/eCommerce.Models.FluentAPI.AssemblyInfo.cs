@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eCommerce.Models.FluentAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4afcae53e012c14cea19f67cf48a5f1791b427d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c81c9d282d49b3db38bc2ffad742558afb0a755")]
 [assembly: System.Reflection.AssemblyProductAttribute("eCommerce.Models.FluentAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eCommerce.Models.FluentAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

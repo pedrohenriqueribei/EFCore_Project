@@ -19,6 +19,8 @@ namespace eCommerce.Office_ManyToMany
         public DbSet<Turma>? Turmas { get; set; }
 
         public DbSet<ColaboradorSetor>? ColaboradoresSetores { get; set; }
+        public DbSet<ColaboradorVeiculo>? ColaboradorVeiculo { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -59,7 +61,7 @@ namespace eCommerce.Office_ManyToMany
             #endregion
 
             #region Veiculo
-            //modelBuilder.Entity<Veiculo>().Property(v => v.Id).ValueGeneratedOnAdd();
+            modelBuilder.Entity<Veiculo>().Property(v => v.Id).ValueGeneratedOnAdd();
             #endregion
 
             #region Seeds
@@ -117,17 +119,40 @@ namespace eCommerce.Office_ManyToMany
                 new Turma() { Id = 4, Nome = "Turma A104" },
                 new Turma() { Id = 5, Nome = "Turma A105" }
             );
+
+            modelBuilder.Entity<Veiculo>().HasData(
+                new Veiculo() { Id = 1, Nome = "Voyage", Placa = "ABC-1234"},
+                new Veiculo() { Id = 2, Nome = "Jetta", Placa = "DEF-5678" },
+                new Veiculo() { Id = 3, Nome = "T-Cross", Placa = "GHI-9A00" },
+                new Veiculo() { Id = 4, Nome = "Fusca", Placa = "JKL-1011" },
+                new Veiculo() { Id = 5, Nome = "Virtus", Placa = "MNO-1T13" },
+                new Veiculo() { Id = 6, Nome = "Amarok", Placa = "PQR-1415" },
+                new Veiculo() { Id = 7, Nome = "Virtus", Placa = "STU-1617" },
+                new Veiculo() { Id = 8, Nome = "Taos", Placa = "VWX-1G19" },
+                new Veiculo() { Id = 9, Nome = "Tiguan", Placa = "ZZZ-2000" },
+                new Veiculo() { Id = 10, Nome = "Polo", Placa = "AAA-1J34" },
+                new Veiculo() { Id = 11, Nome = "Nivus", Placa = "BBB-0L90" }
+            );
             #endregion
 
 
-            #region Mapping: Colaborador <=> Turma
+            #region Mapping: Colaborador <=> Turma (EF CORE 5+)
             modelBuilder.Entity<Colaborador>().HasMany(c => c.Turmas).WithMany(t => t.Colaboradores);
 
             #endregion
 
-            #region Mapping: Colaborador <=> Veiculos
-            modelBuilder.Entity<Colaborador>().HasMany(c => c.Veiculos).WithMany(v => v.Colaboradores);
+            #region Mapping: Colaborador <=> Veiculos (EF CORE 5+)
+            modelBuilder.Entity<Colaborador>()
+                .HasMany(c => c.Veiculos)
+                .WithMany(v => v.Colaboradores)
+                .UsingEntity<ColaboradorVeiculo>(
+                q => q.HasOne(a => a.Veiculo).WithMany(a => a.ColaboradoresVeiculos).HasForeignKey(a => a.VeiculoId),
+                q => q.HasOne(a => a.Colaborador).WithMany(a => a.ColaboradoresVeiculos).HasForeignKey(a => a.ColaboradorId),
+                q => q.HasKey(a => new { a.ColaboradorId,a.VeiculoId })
+            );
             #endregion
+
+            
         }
     }
 }
