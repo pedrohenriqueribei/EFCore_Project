@@ -1,4 +1,9 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
 namespace eCommerce.Models
 {
     public class EnderecoEntrega
@@ -13,7 +18,7 @@ namespace eCommerce.Models
         public string Logradouro { get; set; } = null!;
         public string? Numero { get; set; }
         public string? Complemento { get; set; }
-        
+
         public Usuario? Usuario { get; set; }
     }
 }

@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\migrations\\20241120152951_bancoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\migrations\\20241120152951_bancoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\database\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.api\\properties\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8E7F6A-13AF-49C0-A83A-976B68C90ACA}|eCommerce.API\\eCommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5446B867-6B9A-4E94-B47D-1F3A07322EB5}|eCommerce.Models\\eCommerce.Models.csproj|solutionrelative:ecommerce.models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Contato.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Contato.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models_2\\Contato.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Contato.cs",
-              "RelativeToolTip": "eCommerce.Models_2\\Contato.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20241120152951_BancoInicial.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Migrations\\20241120152951_BancoInicial.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Migrations\\20241120152951_BancoInicial.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Migrations\\20241120152951_BancoInicial.cs",
+              "RelativeToolTip": "eCommerce.API\\Migrations\\20241120152951_BancoInicial.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:28:48.221Z",
+              "WhenOpened": "2024-11-20T15:29:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "eCommerce.API\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:28:09.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Departamento.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models_2\\Departamento.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Departamento.cs",
-              "RelativeToolTip": "eCommerce.Models_2\\Departamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "eCommerce.API\\Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:28:20.478Z",
+              "WhenOpened": "2024-11-20T15:27:58.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EnderecoEntrega.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\EnderecoEntrega.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models_2\\EnderecoEntrega.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\EnderecoEntrega.cs",
-              "RelativeToolTip": "eCommerce.Models_2\\EnderecoEntrega.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Title": "eCommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Database\\eCommerceContext.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Database\\eCommerceContext.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Database\\eCommerceContext.cs",
+              "RelativeToolTip": "eCommerce.API\\Database\\eCommerceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:27:50.613Z",
+              "WhenOpened": "2024-11-20T15:27:07.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Usuario.cs",
-              "RelativeDocumentMoniker": "eCommerce.Models_2\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Usuario.cs",
-              "RelativeToolTip": "eCommerce.Models_2\\Usuario.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA7wB4AAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\Usuario.cs",
+              "RelativeToolTip": "eCommerce.Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T14:26:41.995Z",
+              "WhenOpened": "2024-11-20T15:25:51.629Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\EnderecoEntrega.cs",
+              "RelativeToolTip": "eCommerce.Models\\EnderecoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:25:21.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\Departamento.cs",
+              "RelativeToolTip": "eCommerce.Models\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:25:03.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\Contato.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models\\Contato.cs",
+              "RelativeToolTip": "eCommerce.Models\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:24:46.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Properties\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "eCommerce.API\\Properties\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.API\\Properties\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "eCommerce.API\\Properties\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T15:15:10.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

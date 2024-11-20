@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCommercer.Models.Exercicio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eCommerce.Office_ManyToMany", "eCommerce.Office_ManyToMany\eCommerce.Office_ManyToMany.csproj", "{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerce.Models_2", "eCommerce.Models_2\eCommerce.Models_2.csproj", "{01A4C1F8-B077-4776-B3BC-709F6D5D6474}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCommerce.Models", "eCommerce.Models\eCommerce.Models.csproj", "{5446B867-6B9A-4E94-B47D-1F3A07322EB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,10 +41,10 @@ Global
 		{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{01A4C1F8-B077-4776-B3BC-709F6D5D6474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{01A4C1F8-B077-4776-B3BC-709F6D5D6474}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{01A4C1F8-B077-4776-B3BC-709F6D5D6474}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{01A4C1F8-B077-4776-B3BC-709F6D5D6474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5446B867-6B9A-4E94-B47D-1F3A07322EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5446B867-6B9A-4E94-B47D-1F3A07322EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5446B867-6B9A-4E94-B47D-1F3A07322EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5446B867-6B9A-4E94-B47D-1F3A07322EB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
