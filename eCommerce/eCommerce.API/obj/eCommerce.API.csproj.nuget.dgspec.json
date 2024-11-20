@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj": {
-                "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj"
+              "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\eCommerce.Models_2.csproj": {
+                "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\eCommerce.Models_2.csproj"
               }
             }
           }
@@ -50,23 +50,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.9.0, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -92,14 +78,14 @@
         }
       }
     },
-    "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj": {
+    "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\eCommerce.Models_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj",
-        "projectName": "eCommerce.Models.FluentAPI",
-        "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\eCommerce.Models.FluentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\eCommerce.Models_2.csproj",
+        "projectName": "eCommerce.Models_2",
+        "projectPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\eCommerce.Models_2.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models.FluentAPI\\obj\\",
+        "outputPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -133,16 +119,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            },
-            "Microsoft.EntityFrameworkCore.Relational": {
-              "target": "Package",
-              "version": "[8.0.10, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

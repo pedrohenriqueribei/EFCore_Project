@@ -9,3 +9,7 @@ C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerc
 C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\refint\eCommerce.Models.dll
 C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.pdb
 C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\ref\eCommerce.Models.dll
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.sourcelink.json
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\bin\Debug\net8.0\eCommerce.Models.runtimeconfig.json
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\Novo\eCommerce\eCommerce.Models\obj\Debug\net8.0\eCommerce.Models.genruntimeconfig.cache

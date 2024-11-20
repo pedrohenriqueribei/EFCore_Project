@@ -3,39 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\models\\colaboradorveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\models\\colaboradorveiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorVeiculo.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Colaboradores.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Veiculos.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\ecommerceofficecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\ecommerceofficecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.office_manytomany\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D9F6B99-4AC2-48FC-A8AC-2DF4678D13B2}|eCommerce.Office_ManyToMany\\eCommerce.Office_ManyToMany.csproj|solutionrelative:ecommerce.office_manytomany\\models\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|c:\\users\\pedro\\desktop\\novo\\ecommerce\\ecommerce.models_2\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A4C1F8-B077-4776-B3BC-709F6D5D6474}|eCommerce.Models_2\\eCommerce.Models_2.csproj|solutionrelative:ecommerce.models_2\\enderecoentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,119 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dbo.Colaboradores [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Colaboradores.sql",
-              "ToolTip": "dbo.Colaboradores [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T23:53:28.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "dbo.ColaboradorVeiculo [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorVeiculo.sql",
-              "ToolTip": "dbo.ColaboradorVeiculo [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T23:30:06.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "dbo.Veiculos [Dados]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Veiculos.sql",
-              "ToolTip": "dbo.Veiculos [Dados]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T23:28:51.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Veiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Models\\Veiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Contato.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models_2\\Contato.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Contato.cs",
+              "RelativeToolTip": "eCommerce.Models_2\\Contato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:02:58.246Z",
+              "WhenOpened": "2024-11-20T14:28:48.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Colaborador.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Models\\Colaborador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Departamento.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models_2\\Departamento.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Departamento.cs",
+              "RelativeToolTip": "eCommerce.Models_2\\Departamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:02:12.785Z",
+              "WhenOpened": "2024-11-20T14:28:20.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ColaboradorVeiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Models\\ColaboradorVeiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EnderecoEntrega.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\EnderecoEntrega.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models_2\\EnderecoEntrega.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\EnderecoEntrega.cs",
+              "RelativeToolTip": "eCommerce.Models_2\\EnderecoEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T23:00:26.781Z",
+              "WhenOpened": "2024-11-20T14:27:50.613Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.ColaboradorTurma.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.ColaboradorTurma.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T02:06:48.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.Turmas.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/db_eCommerceOffice/True/SqlTable/dbo.Turmas.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-11-18T02:03:03.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Program.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\Program.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\Program.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\Program.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFIAAAAUAAAAAAAAAA==",
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Usuario.cs",
+              "RelativeDocumentMoniker": "eCommerce.Models_2\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Models_2\\Usuario.cs",
+              "RelativeToolTip": "eCommerce.Models_2\\Usuario.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T17:07:07.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "eCommerceOfficeContext.cs",
-              "DocumentMoniker": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "RelativeDocumentMoniker": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "ToolTip": "C:\\Users\\Pedro\\Desktop\\Novo\\eCommerce\\eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "RelativeToolTip": "eCommerce.Office_ManyToMany\\eCommerceOfficeContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T01:43:25.093Z",
+              "WhenOpened": "2024-11-20T14:26:41.995Z",
               "EditorCaption": ""
             }
           ]
